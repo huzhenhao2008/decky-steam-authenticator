@@ -1,0 +1,1 @@
+# decky-steam-authenticator
