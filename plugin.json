@@ -1,7 +1,9 @@
 {
-  "name": "Steam Authenticator Blackbelt",
-  "author": "YourName",
-  "version": "2.0.0",
-  "description": "Industrial Steam Guard for Decky",
-  "main": "main.py"
+  "name": "Steam Authenticator",
+  "author": "huzhenhao2008",
+  "flags": ["root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["steam", "security", "authenticator"]
+  }
 }

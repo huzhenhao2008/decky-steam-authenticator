@@ -1,0 +1,19 @@
+.steam-auth-card {
+  background: rgba(255,255,255,0.04);
+  padding: 12px;
+  border-radius: 14px;
+  margin-bottom: 10px;
+  backdrop-filter: blur(6px);
+}
+
+.steam-auth-card .header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.code-display {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+}
